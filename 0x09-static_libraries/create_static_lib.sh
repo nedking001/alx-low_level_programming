@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Name of the static library
-LIB_NAME="liball.a"
+LIB_NAME="libmy.a"
 
 # Remove any existing static library with the same name
 rm -f $LIB_NAME
